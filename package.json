@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "portfoliofrontend",
+  "description": "repositorio para el FrontEnd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6erman87/PortfolioFrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6erman87/PortfolioFrontEnd/issues"
+  },
+  "homepage": "https://github.com/6erman87/PortfolioFrontEnd#readme"
+}
